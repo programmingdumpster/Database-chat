@@ -1,9 +1,9 @@
 <?php
 // Parametry połączenia z bazą danych
-$servername = "sql100.epizy.com";
-$username = 'epiz_34224914';
-$password = 'JhYxU1yHe4Mo';
-$database = "epiz_34224914_chat";
+$servername = "YOURSERVERNAME";
+$username = 'USERNAME';
+$password = 'PASSWORD';
+$database = "DB";
 
 // Funkcja łącząca z bazą danych
 function connectToDatabase() {
